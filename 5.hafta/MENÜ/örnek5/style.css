@@ -1,0 +1,10 @@
+/* Normal input kutusu stili */
+.inpBox {
+    background-color: #FFFFFF;
+    border: solid 1px #666666;
+}
+
+/* Hata durumunda input kutusu stili */
+.inpBoxError {
+    border: solid 2px #FF0000; /* Kırmızı kenarlık */
+}
